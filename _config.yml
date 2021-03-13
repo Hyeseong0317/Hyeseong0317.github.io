@@ -9,7 +9,7 @@ name: Hyeseong Kim
 description: Youtuber and influencer on hellotalk
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/프사.png
+avatar: ![프사](/images/프사.png)
 
 #
 # Flags below are optional
